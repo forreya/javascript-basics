@@ -4,7 +4,7 @@ This repository was used to learn JavaScript through a series of exercises that 
 
 ## Learning Objectives
 
-During this challenge, I achieved the following learning objectives:
+From these exercises & challenges, I achieved the following learning objectives:
 
 - Tested simple JavaScript programs using Node.
 - Explained how asynchronous programming is different from synchronous, blocking programming.
@@ -12,7 +12,7 @@ During this challenge, I achieved the following learning objectives:
 
 ## Challenges Completed
 
-Here are the challenges that I completed as part of this module:
+Here are the programs that are part of this repository:
 
 1. A Search Function
 2. A Shopping Basket
